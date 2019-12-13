@@ -1,2 +1,4 @@
 # sample
-Sample repository for trsting purposes
+Sample repository for testing purposes
+
+Modifications made t 21:55 IST 13 Dec 2019
